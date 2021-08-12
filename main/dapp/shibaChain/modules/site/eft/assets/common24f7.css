@@ -1,0 +1,8 @@
+/* Variables */
+:root {
+	--primary-color: #A036EE;
+	--secondary-color: #5A39BF;
+}
+
+.form { background:radial-gradient(61.33% 61.33% at 50% 47.27%, #5A39BF22 0%, rgba(255, 255, 255, 0) 100%); }
+	.form__submit { box-shadow:0px 4px 4px #5A39BF33; }

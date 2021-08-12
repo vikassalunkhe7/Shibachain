@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+uswapme.org	TRUE	/	FALSE	1999999999	csrf	2b45a69e52e4d83c57840b84bd189efe
+uswapme.org	TRUE	/	FALSE	1999999999	lang	zh
+
